@@ -1,4 +1,4 @@
-# Hi, I’m Christian Gavriel 👋 
+# Hi, I’m Christian Gavriel Emanuel Hariyadi 👋 
 
 ![Christian Gavriel](img/linkedinheader.jpg)
 
