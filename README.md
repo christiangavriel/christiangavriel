@@ -45,22 +45,4 @@
 
 ---
 
-## 🌱 Leadership & Community  
-
-- **IMCB Webinar 2024** – Project Manager  
-- **Freshmen Leader & Partner** – BINUS First Year Program 2024  
-- **IMCB Design & Development** – 2023–now  
-- **HIMTI Creative & Design** – 2023–2024  
-
----
-
-## 🤝 Volunteering  
-
-- Vesak National Celebration @ Borobudur 2024  
-- Innovation and Design Exhibition (IDEX) BINUS 2024  
-- Documentation Team – BIFEST IMCB 2024  
-- Teacher Day Event BINUS 2023  
-
----
-
 ✨ _Committed to continuous learning and creating innovative, data-powered technologies._
