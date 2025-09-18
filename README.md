@@ -5,15 +5,25 @@
 🎓 Computer Science student @ BINUS University - Specializing in **Database**  
 💻 Passionate about **Data Engineering**, **Data Analytics**, and **Data Science**  
 📫 Reach me at [christian.gavriel7@gmail.com](mailto:christian.gavriel7@gmail.com)  
-🌐 [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/christiangavriel)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/christiangavriel)
+
+<!-- Social icons -->
+<p align="left">
+  <a href="https://github.com/christiangavriel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/christiangavriel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/gavriiiel">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools  
 
 <p align="left">
-  <!-- Languages / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL/MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
